@@ -3,7 +3,7 @@ title: "完全一致では見つからない「発見」を探す ― pgvector�
 emoji: "🧭"
 type: "tech"
 topics: ["pgvector", "postgresql", "ベクトル検索", "個人開発", "poc"]
-published: false
+published: true
 ---
 
 ## はじめに
