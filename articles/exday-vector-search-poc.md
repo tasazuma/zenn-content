@@ -233,5 +233,4 @@ ngram-baseline は、「意味が分かる」ことでどれだけ良くなる�
 
 ---
 
-ex-day は、一緒に作ってくれる仲間を募集しています。開発だけでなく、地域の歴史に詳しい方、企画に興味がある方も歓迎です。
-→ [ex-day Discussions](https://github.com/orgs/ex-day/discussions)
+この検証は、個人で作っている ex-day というサービスのために行っています。ex-day では、設計の経緯や判断も GitHub で公開しながら進めています。関わり方も含めて、興味があれば [ex-day/platform の README](https://github.com/ex-day/platform#join-the-project) をのぞいてみてください。
