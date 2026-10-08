@@ -234,3 +234,5 @@ ngram-baseline は、「意味が分かる」ことでどれだけ良くなる�
 ---
 
 この検証は、個人で作っている ex-day というサービスのために行っています。ex-day では、設計の経緯や判断も GitHub で公開しながら進めています。関わり方も含めて、興味があれば [ex-day/platform の README](https://github.com/ex-day/platform#join-the-project) をのぞいてみてください。
+
+続きの記事：[会話を「話題」に分けると検索はどう変わるか ― 1つの発見に話が混ざると埋もれる問題のPoC](https://zenn.dev/tasazuma/articles/exday-topic-vector-poc)
