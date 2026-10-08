@@ -3,16 +3,8 @@ title: "会話のトピック分割を、埋め込み（Ruri v3）とLLM（GPT�
 emoji: "✂️"
 type: "tech"
 topics: ["llm", "生成ai", "ruri", "ベクトル検索", "claude"]
-published: false
+published: true
 ---
-
-<!--
-  【下書きの見方】（公開前に消してください）
-  - 数字は ex-day/poc の main（commit 11db335）の context/README.md、context/ai_split/README.md、
-    context/ai_split/results/score.md から取り、照合してあります。
-  - 「設計をどう変えたか」の節は、まだ決定記録（DEC-0012）がリポジトリに入っていない内容です。
-    公開の時点の状態に合わせて、言い回しとリンクを直してください。
--->
 
 ## はじめに
 
